@@ -1,7 +1,10 @@
 # SP3DVMPROG
 
-
-# **Projeto de Jogo de Realidade Virtual para Treinamento de Coordenação Manual**
+ERIC RODRIGUES rm550249
+FERNANDO POPOLILI rm99919
+HENRIQUE DE BRITO rm98831
+RODRIGO LIMA rm98326
+VICTORIA FRANCESCHINI rm550609
 
 ## **Introdução**
 
